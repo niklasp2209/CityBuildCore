@@ -1,0 +1,13 @@
+name: "CityBuild"
+author: BukkitNews
+version: "1.0"
+main: de.bukkitnews.citybuild.CityBuild
+api-version: 1.16
+api: 1.16.5
+commands:
+   spawn:
+      description: Zum Spawn teleportieren
+   build:
+      description: In den Baumodus wechseln
+   Warp:
+      description: Teleportationsmenue
