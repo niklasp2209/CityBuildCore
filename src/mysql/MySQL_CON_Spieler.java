@@ -11,7 +11,7 @@ public class MySQL_CON_Spieler {
 	public static String port = "3306";
 	public static String database = "System";
 	public static String username = "admin";
-	public static String password = "5TnLHcCJQFUx(QuM";
+	public static String password = "";
 	public static Connection con;
 	
 	public static void connect(){
